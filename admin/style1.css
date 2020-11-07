@@ -1,0 +1,13 @@
+.c1{
+    border: 1px solid rgba(16, 85, 214, 0.932);
+    padding: 20px;
+    margin-top: 200px;
+    border-radius: 5px;
+  }
+  .c1:hover{
+    box-shadow: 0px 0px 10px 0.5px rgba(16, 85, 214, 0.932);
+  }
+  
+  #demo1{
+    margin-top: 50px;
+  }
